@@ -8086,13 +8086,6 @@ react-reconciler@0.31.0-rc-02c0e824-20241028:
   dependencies:
     scheduler "0.25.0-rc-02c0e824-20241028"
 
-react-reconciler@0.31.0-rc-45804af1-20241021:
-  version "0.31.0-rc-45804af1-20241021"
-  resolved "https://registry.yarnpkg.com/react-reconciler/-/react-reconciler-0.31.0-rc-45804af1-20241021.tgz#8016e3a28815de6faf7e38598f285a0407f9f415"
-  integrity sha512-X9RSNsCrQSQqXKG6YiiUZrKKGPCfE0bPOg4TcEbTItlyomq8vjPeKvFDXT1zMvmfoN8hGnCsHKyFlAZYebW8Fw==
-  dependencies:
-    scheduler "0.25.0-rc-45804af1-20241021"
-
 react-refresh@^0.14.0:
   version "0.14.0"
   resolved "https://registry.yarnpkg.com/react-refresh/-/react-refresh-0.14.0.tgz#4e02825378a5f227079554d4284889354e5f553e"
@@ -8529,11 +8522,6 @@ scheduler@0.25.0-rc-02c0e824-20241028:
   version "0.25.0-rc-02c0e824-20241028"
   resolved "https://registry.yarnpkg.com/scheduler/-/scheduler-0.25.0-rc-02c0e824-20241028.tgz#3e1beda3dc0a9e92b90b28f2df9f3fd2f0597ed3"
   integrity sha512-GysnKjmMSaWcwsKTLzeJO0IhU3EyIiC0ivJKE6yDNLqt3IMxDByx8b6lSNXRNdN+ULUY0WLLjSPaZ0LuU/GnTg==
-
-scheduler@0.25.0-rc-45804af1-20241021:
-  version "0.25.0-rc-45804af1-20241021"
-  resolved "https://registry.yarnpkg.com/scheduler/-/scheduler-0.25.0-rc-45804af1-20241021.tgz#0c8c38627b3c951dd5ae40957b10e8d453852e31"
-  integrity sha512-8jyu/iy3tGFNakMMCWnKw/vsiTcapDyl0LKlZ3fUKBcBicZAkrrCC1bdqVFx0Ioxgry1SzOrCGcZLM7vtWK00A==
 
 scheduler@^0.25.0-rc-a26e3f403e-20240611:
   version "0.25.0-rc-f994737d14-20240522"
