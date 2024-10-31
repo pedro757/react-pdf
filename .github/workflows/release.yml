@@ -3,7 +3,7 @@ name: Release
 on:
   push:
     branches:
-      - master
+      - main
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
@@ -51,7 +51,7 @@ jobs:
 
   release:
     # Prevents this action from running on forks
-    if: github.repository_owner == 'diegomura'
+    if: github.repository_owner == 'pedro757'
     name: Create Release PR or Publish to npm
     needs: [test]
     runs-on: ubuntu-latest
